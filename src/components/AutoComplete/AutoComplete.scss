@@ -1,0 +1,13 @@
+.auto-complete-container {
+    position: absolute;
+    top: 100px;
+    left: 10px;
+    z-index: 1;
+
+    .ant-select {
+        width: 300px;
+    }
+    .ant-select-clear {
+        right: 40px;
+    }
+}
